@@ -1,2 +1,3 @@
 # UBMM
-A manuscript R package 
+Boosted EM algorithm: Uniform-Beta Mixture Model
+-------------------------------------------------
