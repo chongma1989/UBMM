@@ -5,12 +5,10 @@ Boosted EM algorithm: Uniform-Beta Mixture Model
 **UBMM** applies a Boosted EM algorithm to fit a two-point mixture model of Uniform and Beta distributions. The results of evaluating **UBMM** returns a list of Weights, Beta parameters, and iterations to converge, respectively. The method **UBMM** is built in C++, which is quite fast and stable. The convergence depends on the initial values for weights and Beta shape parameters though. 
 
 ## Install UBMM 
-------------------------------------------------
 * Install Rcpp, BH packages
-* Run `R CMD INSTALL UBMM` in cmd
+* Run `R CMD INSTALL UBMM` in cmd to install the package UBMM
 
 ## Run an example
------------------------------------------------
 ```r
 ## generate a mixture of Uniform and Beta
 ## distribution with shape parameters 0.5
