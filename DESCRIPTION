@@ -1,0 +1,12 @@
+Package: UBMM
+Type: Package
+Title: Boosted EM algorithm to fit a mixture of Uniform and Beta distributions
+Version: 0.0.0
+Date: 2018-02-19
+Author: Chong Ma
+Maintainer: Chong Ma <chongm@email.sc.edu>
+Description: Use a Boosted EM algorithm to fit a mixture model of Uniform and Beta distributions. The package is built in C++, which is quite fast and stable
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.15)
+LinkingTo: Rcpp, BH
+RoxygenNote: 6.0.1

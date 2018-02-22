@@ -1,0 +1,3 @@
+useDynLib(UBMM)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
