@@ -6,7 +6,7 @@ Boosted EM algorithm: Uniform-Beta Mixture Model
 
 ## Install UBMM 
 * Install Rcpp, BH packages in R 
-* Run `R CMD INSTALL UBMM` in cmd to install the package UBMM
+* Run `R CMD INSTALL UBMM` in cmd or run `install("./UBMM")` in R console to install the package UBMM
 
 ## Arguments
 
