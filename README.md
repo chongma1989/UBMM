@@ -9,6 +9,8 @@ Boosted EM algorithm: Uniform-Beta Mixture Model
 * Run `R CMD INSTALL UBMM` in cmd to install the package UBMM
 
 ## Arguments
+
+Args | Instructions
 -- | ---
 x | A numeric vector which ranges between 0 and 1.
 w | A vector of initial weights for the Uniform and Beta distributions in the mixture model.
